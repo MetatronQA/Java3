@@ -1,8 +1,9 @@
-package Lesson1Object.HomeWork.HomeWork1_0;
+package HomeWorkLesson1;
 
-import Lesson1Object.HomeWork.HomeWork1_0.Course.*;
-import Lesson1Object.HomeWork.HomeWork1_0.Team.Team;
-import Lesson1Object.HomeWork.HomeWork1_0.Team.TeamMember;
+import HomeWorkLesson1.Course.*;
+
+import HomeWorkLesson1.Team.Team;
+import HomeWorkLesson1.Team.TeamMember;
 
 public class Main {
 

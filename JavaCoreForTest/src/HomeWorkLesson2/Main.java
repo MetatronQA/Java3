@@ -1,4 +1,4 @@
-package Lesson2Exception.HomeWork;
+package HomeWorkLesson2;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Lesson2Exception.HomeWork;
+package HomeWorkLesson2;
 
 public class ArrayChecker {
     private String[][] strings;

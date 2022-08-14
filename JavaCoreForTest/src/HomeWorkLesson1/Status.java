@@ -1,4 +1,4 @@
-package Lesson1Object.HomeWork.HomeWork1_0;
+package HomeWorkLesson1;
 
 public enum Status {
     PassedDistance,NoPassedDistance

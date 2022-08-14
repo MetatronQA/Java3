@@ -1,6 +1,6 @@
-package Lesson1Object.HomeWork.HomeWork1_0.Team;
+package HomeWorkLesson1.Team;
 
-import Lesson1Object.HomeWork.HomeWork1_0.Status;
+import HomeWorkLesson1.Status;
 
 public class Team {
 
