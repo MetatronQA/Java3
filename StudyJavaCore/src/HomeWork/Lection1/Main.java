@@ -1,7 +1,6 @@
-package HomeWorkLesson1;
+package HomeWork.Lection1;
 
 import HomeWorkLesson1.Course.*;
-
 import HomeWorkLesson1.Team.Team;
 import HomeWorkLesson1.Team.TeamMember;
 
