@@ -1,4 +1,4 @@
-package HomeWorkLesson1.Course;
+package HomeWork.Lection1;
 
 import HomeWorkLesson1.Team.TeamMember;
 

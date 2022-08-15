@@ -11,7 +11,7 @@ public class Team {
         this.members = members;
         this.name = name;
     }
-    public TeamMember[] getMembers() {
+    public HomeWorkLesson1.Team.TeamMember getMembers() {
         return members;
     }
 
@@ -41,5 +41,13 @@ public class Team {
 
     private void printDivider() {
         System.out.println("---------------------------------------------------------");
+    }
+
+    public HomeWorkLesson1.Team.TeamMember[] getMember() {
+        return member;
+    }
+
+    public void setMember(HomeWorkLesson1.Team.TeamMember[] member) {
+        this.member = member;
     }
 }
