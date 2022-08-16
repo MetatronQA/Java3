@@ -1,12 +1,13 @@
-package homework.lesson03;
+package homework.lesson3.Task1;
 
-public class Task1 {
+public class Main {
     public static void main(String[] args) {
 
         invertArray();
     }
+
     private static void invertArray() {
-        int[] array = {0,1};
+        int[] array = {0, 1};
         for (int i = 0; i < array.length; i++) {
             array[i] = array[i] == 0 ? 1 : 0;
         }
@@ -14,7 +15,7 @@ public class Task1 {
         System.out.println();
     }
 
-    public static void  printArray(int[] array) {
+    public static void printArray(int[] array) {
         for (int value : array) {
             System.out.print(value + " ");
         }
