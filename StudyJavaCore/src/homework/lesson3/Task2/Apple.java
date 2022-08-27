@@ -1,10 +1,11 @@
 package homework.lesson3.Task2;
 
 public class Apple extends Fruit{
-    public Apple(){
+
+
+    public Apple() {
         super(1.0f);
     }
-
 }
 
 

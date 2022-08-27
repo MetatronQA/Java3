@@ -1,4 +1,4 @@
-package homework.lesson01.lesson02;
+package homework.lesson02;
 
 public class MyArraySizeException extends RuntimeException {
     public MyArraySizeException(String message) {
