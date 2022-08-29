@@ -1,4 +1,4 @@
-package homework.lesson3.Task2;
+package homework.lesson3;
 
 
 public class Orange extends Fruit {

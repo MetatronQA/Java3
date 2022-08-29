@@ -1,8 +1,4 @@
-package homework.lesson3.Task1;
-
-import homework.lesson3.Task2.Apple;
-import homework.lesson3.Task2.Box;
-import homework.lesson3.Task2.Orange;
+package homework.lesson3;
 
 import java.util.Arrays;
 
