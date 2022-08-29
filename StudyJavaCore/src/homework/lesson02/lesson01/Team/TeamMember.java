@@ -1,6 +1,6 @@
-package HomeWorkLesson1.Team;
+package homework.lesson02.lesson01.Team;
 
-import HomeWorkLesson1.Status;
+import homework.lesson02.lesson01.Status;
 
 public class TeamMember {
     private final String name;

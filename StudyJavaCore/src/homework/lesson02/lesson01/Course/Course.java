@@ -1,8 +1,8 @@
-package HomeWorkLesson1.Course;
+package homework.lesson02.lesson01.Course;
 
-import HomeWorkLesson1.Status;
-import HomeWorkLesson1.Team.Team;
-import HomeWorkLesson1.Team.TeamMember;
+import homework.lesson02.lesson01.Status;
+import homework.lesson02.lesson01.Team.Team;
+import homework.lesson02.lesson01.Team.TeamMember;
 
 public class Course {
     private Obstacle[] obstacles;

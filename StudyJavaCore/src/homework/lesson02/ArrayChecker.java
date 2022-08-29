@@ -1,4 +1,4 @@
-package HomeWorkLesson2;
+package homework.lesson02;
 
 public class ArrayChecker {
     private String[][] strings;
